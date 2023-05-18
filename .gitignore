@@ -1,0 +1,10 @@
+lib
+
+MainIdea.txt
+
+*.dll
+*.exe
+*.o
+*.a
+*.la
+*.pc
